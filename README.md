@@ -10,7 +10,7 @@ Registration with two required assignments before 06.02.2019: https://goo.gl/for
 
 ## Week 0
 * Lecture 2 | Word Vector Representations (word2vec): https://youtu.be/ERibwqs9p38
-* Quizz: https://goo.gl/forms/9EZmQhqfhicW0yaO2
+* Quizz before 07.02.2019: https://goo.gl/forms/9EZmQhqfhicW0yaO2 
 * Additional materials:
   * Lecture 1 | Natural Language Processing with Deep Learning: https://youtu.be/OQQ-W_63UgQ
   * Word2Vec Tutorial - The Skip-Gram Model: http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/
