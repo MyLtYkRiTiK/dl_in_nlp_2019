@@ -4,6 +4,8 @@ Taking together Stanford cs224n course with support of iPavlov team.
 News: https://t.me/dlinnlp
 
 Chat: https://t.me/joinchat/B-HNhhRwNwBnSgYIkOhyPA
+
+Registration with two required assignments before 06.02.2019: https://goo.gl/forms/IyMUI9eRfElqPvp43
 ##### --------------------------------------------------------------------------------------------------
 
 ## Week 0
