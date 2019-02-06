@@ -5,6 +5,8 @@ News: https://t.me/dlinnlp
 
 Chat: https://t.me/joinchat/B-HNhhRwNwBnSgYIkOhyPA
 
+Syllabus: https://docs.google.com/spreadsheets/d/16oB-WgeHqJEm29Er_Zu3X1mQRXfOFidqGnNP0cbbAuo/
+
 (__Acceptance of applications is over__) 
 Registration with two required assignments before 06.02.2019: https://goo.gl/forms/IyMUI9eRfElqPvp43
 ##### --------------------------------------------------------------------------------------------------
