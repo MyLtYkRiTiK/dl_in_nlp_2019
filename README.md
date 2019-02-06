@@ -5,6 +5,7 @@ News: https://t.me/dlinnlp
 
 Chat: https://t.me/joinchat/B-HNhhRwNwBnSgYIkOhyPA
 
+(__Acceptance of applications is over__) 
 Registration with two required assignments before 06.02.2019: https://goo.gl/forms/IyMUI9eRfElqPvp43
 ##### --------------------------------------------------------------------------------------------------
 
