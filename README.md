@@ -7,8 +7,6 @@ Chat: https://t.me/joinchat/B-HNhhRwNwBnSgYIkOhyPA
 
 Syllabus: https://docs.google.com/spreadsheets/d/16oB-WgeHqJEm29Er_Zu3X1mQRXfOFidqGnNP0cbbAuo/
 
-(__Acceptance of applications is over__) 
-Registration with two required assignments before 06.02.2019: https://goo.gl/forms/IyMUI9eRfElqPvp43
 ##### --------------------------------------------------------------------------------------------------
 
 ## Week 0
@@ -20,3 +18,7 @@ Registration with two required assignments before 06.02.2019: https://goo.gl/for
   * Word2Vec Tutorial - The Skip-Gram Model: http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/
   * Efficient Estimation of Word Representations in Vector Space: https://arxiv.org/pdf/1301.3781.pdf
   * Distributed Representations of Words and Phrases and their Compositionality: https://arxiv.org/pdf/1310.4546.pdf
+  
+## Week 1
+* Lecture 4 | Word Window Classification and Neural Networks: https://youtu.be/uc2_iwVqrRI
+* Lecture 5 (before 48 minute) | Backpropagation and Project Advice: https://youtu.be/isPiE-DBagM
