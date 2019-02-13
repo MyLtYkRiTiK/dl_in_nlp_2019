@@ -17,16 +17,17 @@ Community article links: https://www.mendeley.com/community/dl-in-nlp-course/
 * Lecture 2 | Word Vector Representations (word2vec): https://youtu.be/ERibwqs9p38
 * Quizz before 07.02.2019 : https://goo.gl/forms/9EZmQhqfhicW0yaO2 
 * Quizz answers : [Evernote Link](https://www.evernote.com/shard/s98/sh/7214c222-d35e-44ad-b859-b099450b5828/3bab950ce91a64da8d78eabf1ce1bba6)
+* Seminar materials:
+  * Part 1. Conversational Artificial Intelligence.: https://youtu.be/3nKhzlfaOTE
+  * Part 2. Course intro: https://youtu.be/U_1xdGUQZ5o
+  * Part 3. Word vector representations: https://youtu.be/juDdkybtTv0
 * Additional materials:
   * Lecture 1 | Natural Language Processing with Deep Learning: https://youtu.be/OQQ-W_63UgQ
   * Lecture 3 | GloVe: Global Vectors for Word Representation: https://youtu.be/ASn7ExxLZws
   * Word2Vec Tutorial - The Skip-Gram Model: http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/
   * Efficient Estimation of Word Representations in Vector Space: https://arxiv.org/pdf/1301.3781.pdf
   * Distributed Representations of Words and Phrases and their Compositionality: https://arxiv.org/pdf/1310.4546.pdf
-* Seminars
-  * Seminar 1. Part 1. Conversational Artificial Intelligence.: https://youtu.be/3nKhzlfaOTE
-  * Seminar 1. Part 2. Course intro: https://youtu.be/U_1xdGUQZ5o
-  * Seminar 1. Part 3. Word vector representations: https://youtu.be/juDdkybtTv0
+
   
 ## Week 1
 * Lecture 4 | Word Window Classification and Neural Networks: https://youtu.be/uc2_iwVqrRI
