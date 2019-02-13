@@ -33,3 +33,6 @@ Community article links: https://www.mendeley.com/community/dl-in-nlp-course/
 * Lecture 4 | Word Window Classification and Neural Networks: https://youtu.be/uc2_iwVqrRI
 * Lecture 5 (before 48 minute) | Backpropagation and Project Advice: https://youtu.be/isPiE-DBagM
 * Quizz before 14.02.2019 : https://goo.gl/forms/9yDB1KAojvpEABtf2
+* Additional materials:
+  * (in Russian) Линейные модели классификации и регрессии: https://habr.com/post/323890/
+  * Intro in Convolutional Neural Networks for Visual Recognition: http://cs231n.github.io/neural-networks-1
