@@ -9,7 +9,7 @@ Syllabus: https://docs.google.com/spreadsheets/d/16oB-WgeHqJEm29Er_Zu3X1mQRXfOFi
 
 Google calendar: https://clck.ru/FBsQs
 
-Community article links: https://www.mendeley.com/community/dl-in-nlp-course/
+Community articles links: https://www.mendeley.com/community/dl-in-nlp-course/
 
 ##### --------------------------------------------------------------------------------------------------
 
@@ -20,7 +20,9 @@ Community article links: https://www.mendeley.com/community/dl-in-nlp-course/
 * Seminar materials:
   * Part 1. Conversational Artificial Intelligence.: https://youtu.be/3nKhzlfaOTE
   * Part 2. Course intro: https://youtu.be/U_1xdGUQZ5o
-  * Part 3. Word vector representations: https://youtu.be/juDdkybtTv0
+  * Part 3. Word vector representations : https://youtu.be/juDdkybtTv0
+  * Slides Part 2 : https://bit.ly/2Gi9V1z
+  * Slides Part 3 : https://bit.ly/2WQRtSR
 * Additional materials:
   * Lecture 1 | Natural Language Processing with Deep Learning: https://youtu.be/OQQ-W_63UgQ
   * Lecture 3 | GloVe: Global Vectors for Word Representation: https://youtu.be/ASn7ExxLZws
@@ -36,3 +38,9 @@ Community article links: https://www.mendeley.com/community/dl-in-nlp-course/
 * Additional materials:
   * (in Russian) Линейные модели классификации и регрессии: https://habr.com/post/323890/
   * Intro in Convolutional Neural Networks for Visual Recognition: http://cs231n.github.io/neural-networks-1
+  
+  
+## Week 2
+* Lecture 5 (cs231n) | Neural Networks Part 2: https://youtu.be/gYpoJMlgyXA
+* (Optional) Lecture 4 (cs231n) | Backpropagation, Neural Networks Part 1: https://youtu.be/i94OvYb6noo
+* Quizz before 21.02.2019: https://goo.gl/forms/0dVAtBdUUmeJU7NB2
