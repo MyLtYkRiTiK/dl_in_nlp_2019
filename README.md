@@ -43,4 +43,8 @@ Community articles links: https://www.mendeley.com/community/dl-in-nlp-course/
 ## Week 2
 * Lecture 5 (cs231n) | Neural Networks Part 2: https://youtu.be/gYpoJMlgyXA
 * (Optional) Lecture 4 (cs231n) | Backpropagation, Neural Networks Part 1: https://youtu.be/i94OvYb6noo
-* Quizz before 21.02.2019: https://goo.gl/forms/0dVAtBdUUmeJU7NB2
+* Quizz before 28.02.2019: https://goo.gl/forms/0dVAtBdUUmeJU7NB2
+* Additional materials:
+  * (in Russian) Регуляризация нейронных сетей: https://youtu.be/Zz98nDE5b8E
+  * Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift : https://arxiv.org/abs/1502.03167
+  * How Does Batch Normalization Help Optimization? https://arxiv.org/abs/1805.11604
