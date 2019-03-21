@@ -64,7 +64,8 @@ Access code: ipavlov1
 * Lecture 9 (after 40 minute) | Machine Translation and Advanced Recurrent LSTMs and GRUs: https://youtu.be/QuELiw8tbx8?t=2471 
 * Quizz before 14.03.2019: https://goo.gl/forms/h6Ugof9QENxAAvEG2
 * Seminar materials:
-  * Recurrent Neural Networks and Language Models : https://youtu.be/Ms3eOk14Uyc
+  * Recurrent Neural Networks and Language Models Part 1: https://drive.google.com/drive/folders/1-4KBREKificOTissVN7ueNXR8JJYDlqy
+  * Recurrent Neural Networks and Language Models Part 2: https://youtu.be/Ms3eOk14Uyc
   * Slides : https://docs.google.com/presentation/d/1f_-1g0bTp8gvX300HUa2aEUXPXq9LUgnM1zHygM1W10/
 * Additional materials:
   * CS 231n Python & NumPy Tutorial : https://clck.ru/FKKEy
