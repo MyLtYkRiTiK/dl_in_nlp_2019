@@ -64,8 +64,8 @@ Access code: ipavlov1
 * Lecture 9 (after 40 minute) | Machine Translation and Advanced Recurrent LSTMs and GRUs: https://youtu.be/QuELiw8tbx8?t=2471 
 * Quizz before 14.03.2019: https://goo.gl/forms/h6Ugof9QENxAAvEG2
 * Seminar materials:
-  * Recurrent Neural Networks and Language Models Part 1: https://drive.google.com/drive/folders/1-4KBREKificOTissVN7ueNXR8JJYDlqy
-  * Recurrent Neural Networks and Language Models Part 2: https://youtu.be/Ms3eOk14Uyc
+  * Recurrent Neural Networks and Language Models Part 1 : https://drive.google.com/drive/folders/1-4KBREKificOTissVN7ueNXR8JJYDlqy
+  * Recurrent Neural Networks and Language Models Part 2 : https://youtu.be/Ms3eOk14Uyc
   * Slides : https://docs.google.com/presentation/d/1f_-1g0bTp8gvX300HUa2aEUXPXq9LUgnM1zHygM1W10/
 * Additional materials:
   * CS 231n Python & NumPy Tutorial : https://clck.ru/FKKEy
@@ -80,3 +80,11 @@ Access code: ipavlov1
 * Introducing state of the art text classification with universal language models : http://nlp.fast.ai/
 * The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning) : jalammar.github.io/illustrated-bert
 * Lecture 13 | Convolutional Neural Networks : https://youtu.be/Lg6MZw_OOLI
+* Seminar materials:
+  * Transfer Learning in NLP : https://youtu.be/aPNf1IRwqN0
+  * Slides : https://docs.google.com/presentation/d/1rApVsEi-VDyfqIcfoulYTPppR2yXHDV_X_gYPsq4My4/
+  
+## Week 6
+* Lecture 8 (2019) | Sequence-to-sequence models and Attention : https://youtu.be/7m6noV5-l1E
+* The Annotated Encoder-Decoder with Attention : https://clck.ru/FQ8gR
+
