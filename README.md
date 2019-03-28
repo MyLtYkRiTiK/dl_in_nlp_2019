@@ -76,9 +76,9 @@ Access code: ipavlov1
 ## Week 5
 * Deep contextualized word representations : https://arxiv.org/abs/1802.05365
 * Universal Language Model Fine-tuning for Text Classification : https://arxiv.org/abs/1801.06146
-* ELMo helps to further improve your sentence embeddings : towardsdatascience.com/elmo-helps-to-further-improve-your-word-embeddings-c6ed2c9df95f
+* ELMo helps to further improve your sentence embeddings : https://towardsdatascience.com/elmo-helps-to-further-improve-your-word-embeddings-c6ed2c9df95f
 * Introducing state of the art text classification with universal language models : http://nlp.fast.ai/
-* The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning) : jalammar.github.io/illustrated-bert
+* The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning) : https://jalammar.github.io/illustrated-bert
 * Lecture 13 | Convolutional Neural Networks : https://youtu.be/Lg6MZw_OOLI
 * Seminar materials:
   * Transfer Learning in NLP : https://youtu.be/aPNf1IRwqN0
